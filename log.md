@@ -39,7 +39,7 @@
 
 
 
-### Day 4: January 2, 2018
+### Day 4-0: January 2, 2018
 
 **Today's Progress**: Done with CSS Grids Tutorials. Understood major concepts and keywords. 
 
@@ -47,3 +47,14 @@
 
 **Link(s) to work
 [CSS GRIDS](https://github.com/DhruvamSharma/CSS-Grids.git)
+
+
+
+### Day 4-1: January 2, 2018
+
+** Today's Progress**: Done with little understanding of ArrayList, gone through Comparator, comparable, compareTo(), compare(), Collections.sort() 
+
+**Thoughts** Need some question wise practice for further understanding of arrayList
+
+**Link to work
+[ArrayList](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
