@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Dhruvam
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [December 30, 2017].
 
 ## Log
 
@@ -13,3 +13,7 @@ Started CSS Grid Course. My workings till date is stored in this reop: https://g
 
 ### R1D3
 
+----------------------------------------EMPTY---------------------------------------------
+
+### R1D4
+Done with CSS Grid Course. Only Bonus Lectures Left. Work stored in: https://github.com/DhruvamSharma/CSS-Grids.git 
