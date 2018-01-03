@@ -60,11 +60,22 @@
 [ArrayList](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
 
 
-### Day 5: January 3, 2018
+### Day 5-1: January 3, 2018
 
 **Today's Progress**: Done with a little understanding of HashSets and how they work. Learnt about hashCode() method and equals() method of Object class. Also studied the Collection's Framework a little more
 
 **Thoughts** Need some question wise practice for further understanding of HashSet
 
 **Link to work**
-[HashSet](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+[HashSet, HashMaps, TreeSet](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+
+
+
+### Day 5-2: January 3, 2018
+
+**Today's Progress**: Grid Lines, justify-content, align-content, justify-items, align-items, justify-self, align-self, auto-fit, auto-fill, articleLayout, grid and flexbox
+
+**Thoughts** Fully Satisfied with CSS Grids
+
+**Link to work**
+[CSS Grids](https://github.com/DhruvamSharma/CSS-Grids.git)
