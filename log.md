@@ -52,9 +52,19 @@
 
 ### Day 4-1: January 2, 2018
 
-** Today's Progress**: Done with little understanding of ArrayList, gone through Comparator, comparable, compareTo(), compare(), Collections.sort() 
+**Today's Progress**: Done with little understanding of ArrayList, gone through Comparator, comparable, compareTo(), compare(), Collections.sort() 
 
 **Thoughts** Need some question wise practice for further understanding of arrayList
 
-**Link to work
+**Link to work**
 [ArrayList](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+
+
+### Day 5: January 3, 2018
+
+**Today's Progress**: Done with a little understanding of HashSets and how they work. Learnt about hashCode() method and equals() method of Object class. Also studied the Collection's Framework a little more
+
+**Thoughts** Need some question wise practice for further understanding of HashSet
+
+**Link to work**
+[HashSet](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
