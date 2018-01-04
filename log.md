@@ -79,3 +79,14 @@
 
 **Link to work**
 [CSS Grids](https://github.com/DhruvamSharma/CSS-Grids.git)
+
+
+
+### Day 6-1: January 4, 2018
+
+**Today's Progress**: Done with HashMap WorkSample. Understood how Hashmap works Under The hood. It was Easy to understand. 
+
+**Thoughts** Need some question wise practice for further understanding of HashSet
+
+**Link to work**
+[HashMap](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
