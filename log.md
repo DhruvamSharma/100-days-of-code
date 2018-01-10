@@ -148,9 +148,20 @@
 
 
 
-### Day 12: January 10, 2018
+### Day 12-1: January 10, 2018
 
 **Today's Progress**: Worked on the dice game. Still behind on logics. And not able to complete the game yet. Will do it tomorrow. 
+
+**Thoughts** I should have taken on this course way earlier!
+
+**Link to work**
+[Scarne's Dice](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+
+
+
+### Day 12-2: January 10, 2018
+
+**Today's Progress**: Finished the dice game. Done with the Extensions too. Yeay!
 
 **Thoughts** I should have taken on this course way earlier!
 
