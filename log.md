@@ -167,3 +167,55 @@
 
 **Link to work**
 [Scarne's Dice](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+
+
+
+### Day 13: January 11, 2018
+
+**Today's Progress**: Doing work with TNP CELL Management System. Also started with Learning HashMaps Again.
+
+**Thoughts** I should have taken on this course way earlier!
+
+
+
+
+
+### Day 14: January 12, 2018
+
+**Today's Progress**: Done with the HashMap Article. Donw with more work on TNP Cell System. Started up Stack Data Structure.
+
+**Thoughts** I should have taken on this course way earlier!
+
+
+
+
+### Day 15: January 13, 2018
+
+**Today's Progress**: Donw with the Workshop of the Third chapter.
+
+**Thoughts** More work to do.
+
+**Link to work**
+[Word's STack](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+
+
+
+### Day 16: January 14, 2018
+
+**Today's Progress**: Done with the Third Chapter. Extension Left.
+
+**Thoughts** I should have taken on this course way earlier!
+
+**Link to work**
+[Word's STack](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+
+
+
+### Day 17: January 15, 2018
+
+**Today's Progress**: Finished the Word Stack game. Done with the Extensions too. Yeay!
+
+**Thoughts** I should have taken on this course way earlier!
+
+**Link to work**
+[WordStack](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
