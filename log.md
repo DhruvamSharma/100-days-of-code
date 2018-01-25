@@ -219,3 +219,46 @@
 
 **Link to work**
 [WordStack](https://github.com/DhruvamSharma/DataStructures-ArrayList.git)
+
+
+
+
+
+### Day 18: January 16, 2018
+
+**Today's Progress**: Done with Two articles on Recycler View. Yipeeee.
+
+**Thoughts** A much more better understanding of things.
+
+
+
+
+### Day 19: January 17, 2018
+
+**Today's Progress**: Started FreeCodeCamp.Done with 42 tutorials.
+
+**Thoughts** I should have taken on this course way earlier!
+
+
+
+
+/**********************************NO WORK*********************************/
+
+### Day 20: January 18-23, 2018
+
+**Today's Progress**: No work Done !!
+
+/**********************************NO WORK*********************************/
+
+
+
+
+### Day 21: January 24, 2018
+
+**Today's Progress**: Done some  FreeCodeCamp tutorials. Done with 55 tutorials.
+
+**Thoughts** I should have taken on this course way earlier!
+
+
+
+
