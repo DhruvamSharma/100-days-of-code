@@ -262,3 +262,9 @@
 
 
 
+### Day 22: January 25, 2018
+
+**Today's Progress**: Done some  FreeCodeCamp jQuery. Done with  13 tutorials.
+
+**Thoughts** I should have taken on this course way earlier!
+
