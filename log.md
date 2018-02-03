@@ -269,7 +269,7 @@
 **Thoughts** I should have taken on this course way earlier!
 
 
-### Day 22: January 25, 2018
+### Day 23: January 26, 2018
 
 **Today's Progress**: Started with First Page on FreeCOdeCamp.
 
@@ -277,7 +277,7 @@
 
 
 
-### Day 22: January 25, 2018
+### Day 24: January 27, 2018
 
 **Today's Progress**: Done with First Page on FreeCodeCamp.
 
@@ -285,14 +285,14 @@
 
 
 
-### Day 22: January 25, 2018
+### Day 25: January 28, 2018
 
 **Today's Progress**: Started with portfolio project on Freecodecamp.
 
 **Thoughts** I should have taken on this course way earlier!
 
 
-### Day 22: January 25, 2018
+### Day 26: January 29, 2018
 
 **Today's Progress**: Done with Second Project of Portfolio.
 
@@ -300,7 +300,7 @@
 
 
 
-### Day 22: January 25, 2018
+### Day 27: January 30, 2018
 
 **Today's Progress**: Done with Android Design Bottom Sheets.
 
@@ -308,7 +308,7 @@
 
 
 
-### Day 22: January 25, 2018
+### Day 28: January 31, 2018
 
 **Today's Progress**: Started Singly Linked List.
 
@@ -316,14 +316,14 @@
 
 
 
-### Day 22: January 25, 2018
+### Day 29: February 01, 2018
 
 **Today's Progress**: Started Singly Linked List.
 
 **Thoughts** Better understanding of Linked List
 
 
-### Day 22: January 25, 2018
+### Day 30: February 02, 2018
 
 **Today's Progress**: Done with Singly LinkedList.
 
@@ -331,14 +331,14 @@
 
 
 
-### Day 22: January 25, 2018
+### Day 31: February 03, 2018
 
 **Today's Progress**: Done with Doubly Circular LinkedList.
 
 **Thoughts** Better understanding of Linked List
 
 
-### Day 22: February 03, 2018
+### Day 32: February 04, 2018
 
 **Today's Progress**: Done with article on LinkedList
 
