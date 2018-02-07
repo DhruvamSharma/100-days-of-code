@@ -344,3 +344,26 @@
 
 **Thoughts** Better understanding of Linked List
 
+
+
+### Day 32: February 05, 2018
+
+**Today's Progress**: Done with an article on stars and numbers
+
+**Thoughts** Better understanding of these types of problems.
+
+
+
+### Day 32: February 06, 2018
+
+**Today's Progress**: Done with finding source code project and started studying it.
+
+**Thoughts** Started for GSOC
+
+
+### Day 32: February 07, 2018
+
+**Today's Progress**: Started 4th chapter workshop.
+
+**Thoughts** Better understanding of Linked List
+
