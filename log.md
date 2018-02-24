@@ -367,3 +367,10 @@
 
 **Thoughts** Better understanding of Linked List
 
+
+
+### Day 33 - 49: February 24,2018
+
+**Progress**: Started with GSOC and Udacity Course.
+**Thoughts**: I can do this!
+
